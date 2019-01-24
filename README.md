@@ -5,4 +5,4 @@ C#, Rhino, Grasshopper
 
 Collaborated with Shiyi Peng
 
-Contribution: 80% Coding, Genral Idea & Algorithm, Global Functions
+Contribution: Genral Idea & Design, Global Algorithms
